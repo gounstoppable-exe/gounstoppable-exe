@@ -1,45 +1,50 @@
-<h1 align="center">Hi 👋, I'm Yash Chauhan A.K.A GoUnstoppable®</h1>
-<h3 align="center">& I am a Frontend Web-Developer from India.</h3>
+<div style="text-align: center"> <h1>Hello, I'm Yash Chauhan AKA GoUnstoppable™! 👋 </h1>
 
-- 🌱 I’m interested in **Web-Development, UI Designing & some Gaming :)**
-
-- 👨‍💻 All of my projects are available at **[My github page](https://github.com/gounstoppable-exe)**
-
-- 📘 I usually post coding related content on my **[IG Page](https://instagram.com/gounstoppable.exe)**
-
-- 📫 How to reach me **gounstoppable.exe@protonmail.com**
-
-## Technologies & Softwares I use:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VISUAL--STUDIO--CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-![Figma](https://img.shields.io/badge/FIGMA-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
-
-## Find me on:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gounstoppable.exe)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/gounstoppable)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCP-j1Pfsly48IkagGLmz3wA)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/go_unstoppable)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gounstoppable.exe@protonnmail.com)
+</div>
+<br>
+<p>I am a Frontend Website Developer from Uttar Pradesh, India. I design & develop amazing websites that are based on HTML, CSS, JavaScript & some other libraries.
+
+You can find the source code of my projects in the 'Repositories' section.</p>
 
 ---
-<details>
-  <summary> My GitHub Stats </summary>
+<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gounstoppable-exe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
+## Languages & Tools:
+<br>
+<div style="text-align: center; margin-left: 10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px" style="margin-left: 3px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50px" style="margin-left: 3px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" style="margin-left: 3px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" width="50px" style="margin-left: 3px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="50px" style="margin-left: 3px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="50px" style="margin-left: 3px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/atom/atom-original.svg" width="50px" style="margin-left: 3px;">
+</div>
+<br>
 
-**This was GoUnstoppable® signing off, stay tuned!**
+---
+<br>
+
+## Some Websites made by me:
+<ul>
+<li><a href="#">Comming Soon.......</a></li>
+</ul>
+<br>
+
+## Some Mini-Projects made by me:
+<ul>
+<li><a href="#">Comming Soon.......</a></li>
+</ul>
+
+<br>
+
+---
+<br>
+
+![GoUnstoppable's github stats](https://github-readme-stats.vercel.app/api?username=gounstoppable-exe&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gounstoppable-exe&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
