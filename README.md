@@ -6,7 +6,7 @@
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gounstoppable.exe@protonnmail.com)
 </div>
 <br>
-<p>I am a Frontend Website Developer from Uttar Pradesh, India. I design & develop amazing websites that are based on HTML, CSS, JavaScript & some other libraries.
+<p>I am a Frontend Website Developer from Uttar Pradesh, India. I design & develop amazing websites that are based on HTML, CSS and JavaScript.
 
 You can find the source code of my projects in the 'Repositories' section.</p>
 
